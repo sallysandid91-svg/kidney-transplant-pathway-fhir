@@ -35,3 +35,17 @@ A patient with chronic kidney disease follows the following pathway:
 
 - SNOMED CT
 - LOINC
+  
+## Additional Resources
+
+### Procedure
+
+Kidney transplantation procedure represented using SNOMED CT.
+
+### MedicationRequest
+
+Post-transplant immunosuppressive treatment.
+
+### Business Requirements
+
+Transplant waiting list management and longitudinal follow-up.
