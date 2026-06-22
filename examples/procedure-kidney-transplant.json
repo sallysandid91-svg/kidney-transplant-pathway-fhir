@@ -1,0 +1,18 @@
+{
+  "resourceType": "Procedure",
+  "id": "procedure-001",
+  "status": "completed",
+  "subject": {
+    "reference": "Patient/patient-001"
+  },
+  "code": {
+    "coding": [
+      {
+        "system": "http://snomed.info/sct",
+        "code": "119973000",
+        "display": "Kidney transplant"
+      }
+    ]
+  },
+  "performedDateTime": "2024-06-15"
+}
