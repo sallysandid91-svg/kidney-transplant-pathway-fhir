@@ -1,1 +1,12 @@
-
+{
+  "resourceType": "MedicationRequest",
+  "id": "medicationrequest-001",
+  "status": "active",
+  "intent": "order",
+  "subject": {
+    "reference": "Patient/patient-001"
+  },
+  "medicationCodeableConcept": {
+    "text": "Tacrolimus"
+  }
+}
